@@ -1,0 +1,1 @@
+ /Users/alextron/Apps/heatstroke_app/.dart_tool/flutter_build/8a1d90bd3678a32a9ab9b17f0e1f799b/native_assets.yaml: 
