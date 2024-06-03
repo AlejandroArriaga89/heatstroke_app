@@ -16,7 +16,7 @@ class CardTable extends StatelessWidget {
               color: Colors.red,
               icon: Icons.fireplace_outlined,
               text: 'Usa gorra',
-              subtitle: 'La temperatura y el índice UV es alto',
+              subtitle: 'La temperatura y el índice UV es alto.',
             ),
           ],
         ),
@@ -27,7 +27,7 @@ class CardTable extends StatelessWidget {
               icon: Icons.shield_outlined,
               text: 'Usa protector solar',
               subtitle:
-                  'El índice UV es alto. Se recomienda uso de protector solar',
+                  'El índice UV es alto. Se recomienda uso de protector solar.',
             ),
           ],
         ),
@@ -38,7 +38,7 @@ class CardTable extends StatelessWidget {
               icon: Icons.water_drop_outlined,
               text: 'Hidrátate constantemente',
               subtitle:
-                  'La húmedad es baja, por lo que se recomeinda hidratación constante',
+                  'La húmedad es baja, por lo que se recomeinda hidratación constante.',
             ),
           ],
         ),
@@ -49,7 +49,7 @@ class CardTable extends StatelessWidget {
               icon: Icons.house_outlined,
               text: 'Limita el tiempo al aire libre',
               subtitle:
-                  'La larga exposición al aire libre puede causar quemaduras en la piel severas',
+                  'La larga exposición al aire libre puede causar quemaduras severas en la piel.',
             ),
           ],
         ),
@@ -67,7 +67,7 @@ List<_SingleCard> buildRecommendations(Clima weather, Uvi uvi) {
       color: Colors.red,
       icon: Icons.fireplace_outlined,
       text: 'Usa gorra',
-      subtitle: 'La temperatura y el índice UV es alto',
+      subtitle: 'La temperatura y el índice UV es alto.',
     ));
   }
   if (uvi.value > 7 && DateTime.now().hour < 18) {
@@ -76,7 +76,7 @@ List<_SingleCard> buildRecommendations(Clima weather, Uvi uvi) {
       icon: Icons.shield_outlined,
       text: 'Usa protector solar',
       subtitle:
-          'El índice UV es alto. Se recomienda uso de protector solar cada dos horas',
+          'El índice UV es alto. Se recomienda uso de protector solar cada dos horas.',
     ));
   }
   if (weather.humidity < 30) {
@@ -85,7 +85,7 @@ List<_SingleCard> buildRecommendations(Clima weather, Uvi uvi) {
       icon: Icons.water_drop_outlined,
       text: 'Hidrátate constantemente',
       subtitle:
-          'La húmedad es baja, por lo que se recomeinda hidratación constante',
+          'La húmedad es baja, por lo que se recomeinda hidratación constante.',
     ));
   }
   if (uvi.value > 7 && DateTime.now().hour < 18) {
@@ -94,7 +94,7 @@ List<_SingleCard> buildRecommendations(Clima weather, Uvi uvi) {
       icon: Icons.house_outlined,
       text: 'Limita el tiempo al aire libre',
       subtitle:
-          'La larga exposición al aire libre puede causar quemaduras en la piel severas',
+          'La larga exposición al aire libre puede causar quemaduras severas en la piel.',
     ));
   }
 

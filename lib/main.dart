@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:heatstroke_app/screens/screens.dart';
 import 'package:heatstroke_app/providers/providers.dart';
+import 'package:heatstroke_app/screens/settings_screen.dart';
 import 'package:provider/provider.dart';
 import 'package:intl/date_symbol_data_local.dart';
 
@@ -37,12 +38,14 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData.dark(),
+      theme: ThemeData(fontFamily: 'Poppins'),
       title: 'Heatstroke App',
       routes: {
-        'ScrollDesign': (_) => const ScrollDesignScreen(),
+        'ScrollDesign': (_) => ScrollDesignScreen(),
         'Home': (_) => const HomeScreen(),
         'Welcome': (_) => const WelcomeScreen(),
+        'Settings': (_) => const SettingsScreen(),
+        'Notification': (_) => const NotificationScreen(),
       },
       initialRoute: 'Home',
     );

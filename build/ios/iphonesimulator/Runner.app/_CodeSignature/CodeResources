@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		2Y5cyTH7KF5OWY/5peqkS6mo0Nc=
+		tALXa8l/6NINO3uTzNNV443u3cc=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2CVrLB4cHIz6VPmx1WJCFMkJaJ0=
+		amGOdlo8c0P/V2OOo5+xkT5HOiU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		gsvQCPIL+vvWcDqqaCdvn69eEyA=
+		XuDK1P/ptjEDsCmN6Jq8w1z8s1k=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/scroll-1.jpg</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		vfsHqWDt09BHhUJ0Rr/5NFR1zmk=
+		VyR7QRbRo/grNOAJ2qxZMtBAVag=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -188,6 +188,46 @@
 		<data>
 		Ubat0LvE4LUgCwHeyl0Anx2vnzk=
 		</data>
+		<key>Frameworks/flutter_local_notifications.framework/Info.plist</key>
+		<data>
+		40MEMubVg2Y35aN3a580GWrHUaU=
+		</data>
+		<key>Frameworks/flutter_local_notifications.framework/_CodeSignature/CodeResources</key>
+		<data>
+		JhcnXkwkzI9+sczfUbL2enexRdQ=
+		</data>
+		<key>Frameworks/flutter_local_notifications.framework/flutter_local_notifications</key>
+		<data>
+		h5Z5XgEuR/cGt7+MKGKB0lQ2JYU=
+		</data>
+		<key>Frameworks/flutter_local_notifications.framework/flutter_local_notifications_privacy.bundle/Info.plist</key>
+		<data>
+		KdRvqkq3BWeTUALI9hbV/q6Rmt8=
+		</data>
+		<key>Frameworks/flutter_local_notifications.framework/flutter_local_notifications_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		TACQAjNH8aZiPGPN1ibJPOzuF+k=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
+		<data>
+		gCWTRyo57+ge9bbeIGJh0+ByT1k=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ViupXSvy86MwGGGHnPIQEKPjnBk=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
+		<data>
+		ar3N8qBemanpO5fJDyLGn5t3i4U=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
+		<data>
+		hXiXtOjZmDZuZLCpuLzxuN9Ivg0=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		KFiVi4mWKmBFkTjfe3H4jsOvLNM=
+		</data>
 		<key>Frameworks/path_provider_foundation.framework/Info.plist</key>
 		<data>
 		031gvt4ETMp5IFsfLk5lA1IJFiI=
@@ -230,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		he4Ti2rfq+TZ+JT6q1g5xF5Vluk=
+		SEsydOUg47uSmpfzW+SPVbO4IDQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -313,7 +353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DAcCXcAPIWANHYKL0bGAw7Fo9zUtNiHn2g9qu2spons=
+			GzgmqvI/788fDXt39OYh66fPrNXL+SYyYKhJfumLbGo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -327,7 +367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RYnxK6RKU6qryOLJgELTkhfjrut0to7oZgNhjGFT8L0=
+			8EDdKlvWDE8frK4Yv+mvmrN33AUYJQPAYtE0fdf/bGw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -355,7 +395,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YHTdRXc9X26j7ZXKCqkc9nEY+EpxV2iva4qMiQ5EhS0=
+			hbuPEPKqAXT03GzBpwE1jP+IaEZsAkTOKisoUOhdKs0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/scroll-1.jpg</key>
@@ -390,7 +430,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tflTVCh8AH6rGZ/48nS8X/434XqgzHihux7IsyFV0Xg=
+			i3G0+3uETq9xEGHfbtieZNV4PdyLtlU6fz9ZIwc0wZ8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
@@ -559,6 +599,76 @@
 			<key>hash2</key>
 			<data>
 			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_local_notifications.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p00OZck1QnuH4TrakSvJEWv7/+lEtoPaeKZ3rwChY74=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_local_notifications.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jPuZ/Gkqp0u5y3YGJyRfmwEnjaYvQ5bQJPosqZ94dqQ=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_local_notifications.framework/flutter_local_notifications</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ORZEpMxdl7s+KPUwaEXAXbuFCa3+aYPHa5rn3xB6ZxE=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_local_notifications.framework/flutter_local_notifications_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eOkMehR54lSSEh6I6fDQN9mNx+PUmCWtzBvNjJ3ohpI=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_local_notifications.framework/flutter_local_notifications_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j0y/Om8Yt96qvIZGvSVd9FPw0QDe8HTsBeREY0N76dU=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yljKU94oJiT0kwOL3ji6UCaCUVJjRLyxFajFzuAPy2M=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OYci6GZnxCsyg1SBDRvJApMN2mrDl220bPGKtfu4krQ=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uhJrMvP7hz5R1WZdO1dPJ8NFzgjQu+3jw2a4biUjlB4=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			foiUzglHdnDm7+poYQQFgdm5ykZfv58BHuOjC7We3dw=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p+c+xOFN/pYr5bFknUH/y01YGEb8+JJchzbtJ60mdTI=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_foundation.framework/Info.plist</key>
